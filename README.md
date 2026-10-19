@@ -1,5 +1,7 @@
 # lz-string
 
+[![CI](https://github.com/boisgera/lz-string/actions/workflows/lean_action_ci.yml/badge.svg)](https://github.com/boisgera/lz-string/actions/workflows/lean_action_ci.yml)
+
 A Lean 4 port of [lz-string](https://github.com/pieroxy/lz-string) (1.5.0),
 the LZ-based compression library for JavaScript strings.
 
